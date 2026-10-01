@@ -30,3 +30,11 @@ facilities, pricing, parking availability, reservations, and reporting.
 - Product Backlog
 - Sprint 1 Planning
 - Trello Scrum Board
+
+### Homework 4
+
+- Technical, Schedule, Financial, and People Risks
+- Risk Register
+- Communication Plan
+- Team Meeting Cadence
+- Stakeholder Reporting Methods
